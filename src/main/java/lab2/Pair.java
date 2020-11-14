@@ -16,6 +16,11 @@ public class Pair implements WritableComparable<Pair> {
         type = new IntWritable();
     }
 
+    public Pair(Integer id, Integer type){
+        this.id = new IntWritable(id);
+        this.type = new IntWritable(type);
+    }
+
     @Override
     public int compareTo(Pair o) {
         return 0;
