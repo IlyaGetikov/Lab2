@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="610ac94a-8e4c-4026-ad3f-e605eac06c5a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +68,17 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
@@ -61,5 +93,9 @@
       <screen x="72" y="27" width="1208" height="773" />
     </state>
     <state x="168" y="49" width="1016" height="742" key="SettingsEditor/72.27.1208.773@72.27.1208.773" timestamp="1603939523984" />
+    <state x="402" y="27" width="591" height="773" key="find.popup" timestamp="1605361975021">
+      <screen x="72" y="27" width="1208" height="773" />
+    </state>
+    <state x="402" y="27" width="591" height="773" key="find.popup/72.27.1208.773@72.27.1208.773" timestamp="1605361975021" />
   </component>
 </project>
