@@ -22,7 +22,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="610ac94a-8e4c-4026-ad3f-e605eac06c5a" name="Default Changelist" comment="" />
+    <list default="true" id="610ac94a-8e4c-4026-ad3f-e605eac06c5a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/lab2/Pair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lab2/Pair.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
