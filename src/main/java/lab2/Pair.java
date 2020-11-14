@@ -1,4 +1,7 @@
 package lab2;
 
-public class Pair {
+import org.apache.hadoop.io.WritableComparable;
+
+public class Pair implements WritableComparable<Pair> {
+
 }
