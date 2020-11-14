@@ -1,2 +1,4 @@
-package lab2;public class Pair {
+package lab2;
+
+public class Pair {
 }
